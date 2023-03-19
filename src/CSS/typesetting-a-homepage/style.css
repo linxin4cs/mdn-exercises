@@ -1,0 +1,162 @@
+/* General setup */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  min-width: 1000px;
+  max-width: 1400px;
+}
+
+/* Layout */
+
+section {
+  float: left;
+  width: 50%;
+}
+
+aside {
+  float: left;
+  width: 30%;
+}
+
+nav {
+  float: left;
+  width: 20%;
+}
+
+footer {
+  clear: both;
+}
+
+header,
+section,
+aside,
+nav,
+footer {
+  padding: 20px;
+}
+
+/* header and footer */
+
+header,
+footer {
+  border-top: 5px solid #a66;
+  border-bottom: 5px solid #a66;
+}
+
+/* WRITE YOUR CODE BELOW HERE */
+
+/* || Font */
+
+body {
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  font-family: "Gilda Display", serif;
+}
+
+h1,
+h2 {
+  font-family: "Philosopher", sans-serif;
+}
+
+/* || Text */
+
+html {
+  font-size: 10px;
+}
+
+h1,
+h2 {
+  letter-spacing: 0.3rem;
+}
+
+h1 {
+  font-size: 3.6rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2.4rem;
+}
+
+p {
+  font-size: 1.8rem;
+}
+
+body p {
+  line-height: 1.5;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+}
+
+section h2 + p {
+  text-indent: 2rem;
+}
+
+/* || Link */
+a {
+  outline: none;
+  color: rgb(170, 102, 103);
+}
+
+a[href^="https"] {
+  padding-right: 19px;
+  background-image: url("external-link-52.png");
+  background-position: 100%;
+  background-size: 16px 16px;
+  background-repeat: no-repeat;
+}
+
+a:visited {
+  color: rgb(122, 67, 67);
+}
+
+a:hover {
+  text-decoration: none;
+  background-color: rgb(217, 186, 186);
+}
+
+a:focus {
+  border-bottom: none;
+  color: rgb(122, 67, 67);
+}
+
+/* || List */
+
+li {
+  line-height: 1.5;
+}
+
+/* || Nav */
+
+nav ul {
+  list-style-type: none;
+  font-size: 2rem;
+}
+
+nav ul li {
+  width: 20rem;
+  border: 1px solid rgb(170, 102, 103);
+  margin: 1rem;
+  padding: 1rem 3rem;
+  text-align: center;
+  color: rgb(170, 102, 103);
+}
+
+nav ul li:hover {
+  background-color: rgb(170, 102, 103);
+  color: white;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: inherit;
+}
+
+nav ul li a:hover {
+  background-color: inherit;
+}

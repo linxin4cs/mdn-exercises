@@ -15,3 +15,4 @@ The project contains some exercises of MDN Tutorials.
   - [fundamental-css-comprehension](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/Fundamental_CSS_comprehension)
   - [letterheaded-paper](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/Creating_fancy_letterheaded_paper)
   - [cool-information-box](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/A_cool_looking_box)
+  - [typesetting-a-homepage](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Styling_text/Typesetting_a_homepage)

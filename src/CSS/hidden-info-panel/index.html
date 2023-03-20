@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <title>Hidden info panel</title>
+
+    <style>
+      aside {
+        position: fixed;
+        top: 0;
+        right: -290px;
+
+        height: 100vh;
+        width: 300px;
+        padding: 0px 20px;
+        box-sizing: border-box;
+
+        background-color: #a60000;
+        color: white;
+
+        transition: 0.6s all;
+      }
+
+      label[for="toggle"] {
+        cursor: pointer;
+        font-size: 2rem;
+        position: fixed;
+        top: 5px;
+        right: 10px;
+        z-index: 1;
+      }
+
+      input[id="toggle"] {
+        display: none;
+      }
+
+      input[id="toggle"]:checked + aside {
+        right: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <label for="toggle">❔</label>
+    <input type="checkbox" id="toggle" />
+    <aside>
+      <h2>Information</h2>
+
+      <p>Some very important information about your app:</p>
+
+      <ol>
+        <li>It has a really cool slide-out information box.</li>
+        <li>
+          This information box uses a combination of fixed positioning and a CSS
+          transition for the smooth sliding.
+        </li>
+        <li>
+          It also uses a cool technique called the
+          <a href="https://css-tricks.com/the-checkbox-hack/">checkbox hack</a>.
+        </li>
+        <li>
+          This allows you to create a nice "toggle on/toggle off" UI effect
+          without using any JavaScript, which will work in IE9 and above (the
+          smooth transition will work in IE10 and above.)
+        </li>
+      </ol>
+    </aside>
+  </body>
+</html>

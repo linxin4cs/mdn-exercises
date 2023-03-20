@@ -17,4 +17,4 @@ The project contains some exercises of MDN Tutorials.
   - [cool-information-box](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/A_cool_looking_box)
   - [typesetting-a-homepage](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Styling_text/Typesetting_a_homepage)
   - [info-box](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout/Practical_positioning_examples)
-
+  - [hidden-info-box](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout/Practical_positioning_examples)

@@ -18,3 +18,4 @@ The project contains some exercises of MDN Tutorials.
   - [typesetting-a-homepage](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Styling_text/Typesetting_a_homepage)
   - [info-box](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout/Practical_positioning_examples)
   - [hidden-info-box](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout/Practical_positioning_examples)
+  - [rwd-skills](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/rwd_skills#assessment_or_further_help)

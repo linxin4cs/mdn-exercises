@@ -12,6 +12,7 @@ The project contains some exercises of MDN Tutorials.
   - [mozilla-splash-page](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page)
 
 - CSS
+
   - [fundamental-css-comprehension](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/Fundamental_CSS_comprehension)
   - [letterheaded-paper](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/Creating_fancy_letterheaded_paper)
   - [cool-information-box](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/A_cool_looking_box)
@@ -20,3 +21,6 @@ The project contains some exercises of MDN Tutorials.
   - [hidden-info-box](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout/Practical_positioning_examples)
   - [rwd-skills](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/rwd_skills#assessment_or_further_help)
   - [fundamental-layout-comprehension](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout/Fundamental_Layout_Comprehension)
+
+- JavaScript
+  - [gallery](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Building_blocks/Image_gallery)
